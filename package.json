@@ -1,0 +1,30 @@
+{
+  "name": "eloquentjs",
+  "version": "1.0.0",
+  "description": "link to the Eloquent JavaScript book",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jasmine": "^2.4.1",
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.1.2",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zackluckyf/eloquentJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zackluckyf/eloquentJS/issues"
+  },
+  "homepage": "https://github.com/zackluckyf/eloquentJS#readme"
+}
